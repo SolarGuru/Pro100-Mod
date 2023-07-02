@@ -1,2 +1,8 @@
 
 mp/*.mp
+config.ini
+eipacker.exe
+ini2reg.exe
+reg2ini.exe
+Res/eipacker.lnk
+Res/databaselmp_100.xlsx
