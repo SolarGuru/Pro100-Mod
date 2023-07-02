@@ -1,4 +1,6 @@
 
+.gitattributes
+.gitignore
 mp/*.mp
 config.ini
 eipacker.exe
